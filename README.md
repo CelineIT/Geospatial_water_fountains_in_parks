@@ -1,4 +1,4 @@
-# Parks_Water_Fountains_Geospatial
+Water Fountains in Park
 
 After joining 2 datasets (geojson & csv), I created a map to visualize the exact location of the water fountains in Nashville parks, using geospatial data.
 
